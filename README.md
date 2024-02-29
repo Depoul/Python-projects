@@ -1,1 +1,1 @@
-# A group of litle Python-projects, focused on practicing python.
+# A group of little Python-projects, focused on practicing python.
